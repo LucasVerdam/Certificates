@@ -6,5 +6,5 @@
 <br>
 
 <div align="center">
-  <img height="680" width="550" src="https://github.com/LucasVerdam/Certificates/blob/main/MonitoriaJPG.jpg" />
+  <img height="680" width="525" src="https://github.com/LucasVerdam/Certificates/blob/main/MonitoriaJPG.jpg" />
 </div>
